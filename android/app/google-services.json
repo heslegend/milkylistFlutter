@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592984066769",
+    "firebase_url": "https://milkylistf.firebaseio.com",
+    "project_id": "milkylistf",
+    "storage_bucket": "milkylistf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592984066769:android:c1fb20ac087d5ebce113f0",
+        "android_client_info": {
+          "package_name": "com.espresso.milkylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592984066769-ld7uvrtbu31ed3c220at7l644hmieusp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.espresso.milkylist",
+            "certificate_hash": "09f340cb3b2e1b06d48b20b479881d935b2eaac2"
+          }
+        },
+        {
+          "client_id": "592984066769-corcv4ai646eabqvhpbh3a0lmqf85c3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXevNA7yVqy5DfZgZDMHOpf6EbFe3TSYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592984066769-corcv4ai646eabqvhpbh3a0lmqf85c3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
